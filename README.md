@@ -19,7 +19,7 @@ Açılan Komut istemi penceresinde aşağıdaki kodları girin:
 
 ``` 
 
-cd <7zip-src klasörü yolu>
+cd <7zip-src klasörü yolu>\CPP\7zip
 
 nmake NEW_COMPILER=1 MY_STATIC_LINK=1 CPU=AMD64 PLATFORM=x64
 
