@@ -6,10 +6,12 @@ CTRL+W ile kapanmayı reddeden 7zip'in fixlenmesi için 3 eylül 2022'de yazılm
 
 ## 64 Bit 7zip Yüklemesi İçin CTRL+W çalışan halinin ayarlanması
 
-1. 64 Bit 7zip indirin ve yükleyin. https://sourceforge.net/projects/sevenzip/files/7-Zip/22.01/ (Bu repo'nun yüklendiği tarihteki 7Zip versiyonu ve repo'daki 7zip kodunun ait olduğu versiyon 22.01'dir)
+1. 64 Bit 7zip indirin ve yükleyin. https://sourceforge.net/projects/sevenzip/files/7-Zip/22.01/ (7z2201-x64.exe'i indirin) 
 2. Bu repo'daki kodu derleyin.
 3. Derlenen 7zFM.exe ile orjinali değiştirin.
 
+
+Not: Bu repo'nun yüklendiği tarihteki 7Zip versiyonu ve repo'daki 7zip kodunun ait olduğu versiyon 22.01'dir.
 
 ### Windows 10'da Derleme: 
 Visual studio derleme araçlarının yüklenmiş olması gerekmektedir. https://visualstudio.microsoft.com/tr/downloads/#build-tools-for-visual-studio-2022 adresinden indirebilirsiniz(*C++ ile masaüstü geliştirme*yi seçerek yükleyin).
