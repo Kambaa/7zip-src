@@ -23,8 +23,7 @@ nmake NEW_COMPILER=1 MY_STATIC_LINK=1 CPU=AMD64 PLATFORM=x64
 
 ```
 İşlem başarılı tamamlanmışsa aşağıdaki şekilde olacaktır.
-
-![resim](https://user-images.githubusercontent.com/5601326/190855693-a5bdf4c9-3ab5-43c6-8e4f-2be0a27c6303.png)
+![resim](https://user-images.githubusercontent.com/5601326/190855972-b7ea4998-bf65-49f1-935c-c19204db4f09.png)
 
 Son olarak yüklemiş olduğunuz 7zFM.exe dosyası ile, aşağıda derlenmiş dizini verilen dosyayı değiştirin. 
 
