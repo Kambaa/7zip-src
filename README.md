@@ -3,6 +3,8 @@ Senelerdir kullandığım 7Zip'in eksik olduğu için sinir olduğum CTRL+W ile 
 
 CTRL+W ile kapanmayı reddeden 7zip'in fixlenmesi için 3 eylül 2022'de yazılmış v3 diff'in uygulanmış kaynak kod hali.
 
+[screen-recorder-sat-sep-17-2022-14-07-13.webm](https://user-images.githubusercontent.com/5601326/190858365-54d74d6c-4631-4b04-be36-bbe5a4a072f8.webm)
+
 
 ## 64 Bit 7zip Yüklemesi İçin CTRL+W çalışan halinin ayarlanması
 
