@@ -1,5 +1,5 @@
 # CTRL+W ile kapanabilen 7zip kaynak kodu, derleyin ve kullanın.
-Senelerdir kullandığım 7Zip'in eksik olduğu için sinir olduğum CTRL+W ile kapanabilme(yadırgıyor olabilirsiniz ama bu kadar yoğun kullanımdan sonra gerçekten ben bunaltan bir eksiklik bu. Bir de arşive not ekleyebilme özelliği ve arşiv açıldığında notları arşiv görüntüleyicinin yanında görebilme olsa mükemmel olacak) özelliği ile alakalı yazılan bir yamanın gerçekten çalıştığını görebilmek ve hemen sistemime ayarlamak için bir cumartesi öğlesini ayırdığım çalışmadır.
+Senelerdir kullandığım 7Zip'in eksik olduğu için sinir olduğum CTRL+W ile kapanabilme(yadırgıyor olabilirsiniz ama bu kadar yoğun kullanımdan sonra gerçekten ben bunaltan bir eksiklik bu. Bir de arşive not ekleyebilme özelliği ve arşiv açıldığında o notu arşiv görüntüleyicinin yanında görebilme olsa mükemmel olacak) özelliği ile alakalı yazılan bir yamanın gerçekten çalıştığını görebilmek ve hemen sistemime ayarlamak için bir cumartesi öğlesini ayırdığım çalışmadır.
 
 CTRL+W ile kapanmayı reddeden 7zip'in fixlenmesi için 3 eylül 2022'de yazılmış v3 diff'in uygulanmış kaynak kod hali.
 
