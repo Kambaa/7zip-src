@@ -35,7 +35,7 @@ C:\Program Files\7-Zip
 ```
 
 
-# Some of the links read through coming to this stage: 
+# Bu aşamaya kadar gelirken okunan bağlantılardan bazıları.
 https://www.ski-epic.com/2012_compiling_7zip_on_windows_with_visual_studio_10/index.html
 https://stackoverflow.com/questions/55691927/how-to-compile-7zip-source-code-in-visual-studio-2017
 https://learn.microsoft.com/en-us/cpp/build/reference/nmake-reference?view=msvc-170
