@@ -7,7 +7,7 @@ CTRL+W ile kapanmayı reddeden 7zip'in fixlenmesi için 3 eylül 2022'de yazılm
 ## 64 Bit 7zip Yüklemesi İçin CTRL+W çalışan halinin ayarlanması
 
 1. 64 Bit 7zip indirin ve yükleyin. https://sourceforge.net/projects/sevenzip/files/7-Zip/22.01/ (7z2201-x64.exe'i indirin) 
-2. Bu repo'daki kodu derleyin.
+2. Bu repo'daki kodu indirip derleyin.
 3. Derlenen 7zFM.exe ile orjinali değiştirin.
 
 
