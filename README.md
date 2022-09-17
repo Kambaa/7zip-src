@@ -36,10 +36,10 @@ C:\Program Files\7-Zip
 
 
 # Bu aşamaya kadar gelirken okunan bağlantılardan bazıları.
-https://www.ski-epic.com/2012_compiling_7zip_on_windows_with_visual_studio_10/index.html
-https://stackoverflow.com/questions/55691927/how-to-compile-7zip-source-code-in-visual-studio-2017
-https://learn.microsoft.com/en-us/cpp/build/reference/nmake-reference?view=msvc-170
-https://stackoverflow.com/questions/22179737/cannot-compile-7zip-under-msvc2012
-https://github.com/myfreeer/7z-build-nsis/blob/master/7-zip-build.bat
-https://stackoverflow.com/questions/32109761/openssl-ml64-is-not-recognized-as-an-internal-or-external-command
-https://stackoverflow.com/questions/50703167/nmake-clean-command-line-property-on-clean-build-rebuild
+- https://www.ski-epic.com/2012_compiling_7zip_on_windows_with_visual_studio_10/index.html
+- https://stackoverflow.com/questions/55691927/how-to-compile-7zip-source-code-in-visual-studio-2017
+- https://learn.microsoft.com/en-us/cpp/build/reference/nmake-reference?view=msvc-170
+- https://stackoverflow.com/questions/22179737/cannot-compile-7zip-under-msvc2012
+- https://github.com/myfreeer/7z-build-nsis/blob/master/7-zip-build.bat
+- https://stackoverflow.com/questions/32109761/openssl-ml64-is-not-recognized-as-an-internal-or-external-command
+- https://stackoverflow.com/questions/50703167/nmake-clean-command-line-property-on-clean-build-rebuild
