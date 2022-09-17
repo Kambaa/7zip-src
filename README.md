@@ -11,7 +11,7 @@ CTRL+W ile kapanmayı reddeden 7zip'in fixlenmesi için 3 eylül 2022'de yazılm
 3. Derlenen 7zFM.exe ile orjinali değiştirin.
 
 
-### Derleme: 
+### Windows 10'da Derleme: 
 Visual studio derleme araçlarının yüklenmiş olması gerekmektedir. https://visualstudio.microsoft.com/tr/downloads/#build-tools-for-visual-studio-2022 adresinden indirebilirsiniz(*C++ ile masaüstü geliştirme*yi seçerek yükleyin).
 
 Başlat Menüsünde "x64 Native Tools Command Prompt for VS 2022" arayın ve bulun. (Başlat -> Çalıştır -> %comspec% /k "C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\vcvars64.bat" şeklinde de girebilirsiniz.)
