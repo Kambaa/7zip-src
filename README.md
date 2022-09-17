@@ -1,5 +1,5 @@
 # 7zip-src
-CTRL+W ile kapanmayı reddeden 7zip'in fixlenmesi için 9 eylülde yazılmış diff'in uygulanmış kaynak kod hali.
+CTRL+W ile kapanmayı reddeden 7zip'in fixlenmesi için 9 eylülde yazılmış v3 diff'in uygulanmış kaynak kod hali.
 
 
 ## 64 Bit 7zip Yüklemesi İçin CTRL+W çalışan halinin ayarlanması
@@ -36,6 +36,10 @@ C:\Program Files\7-Zip
 
 
 # Bu aşamaya kadar gelirken okunan bağlantılardan bazıları.
+- https://sourceforge.net/p/sevenzip/patches/402/
+- https://sourceforge.net/p/sevenzip/feature-requests/1388/
+- https://sourceforge.net/p/sevenzip/feature-requests/1561/
+- https://sourceforge.net/p/sevenzip/discussion/45797/thread/5ffc7943/
 - https://www.ski-epic.com/2012_compiling_7zip_on_windows_with_visual_studio_10/index.html
 - https://stackoverflow.com/questions/55691927/how-to-compile-7zip-source-code-in-visual-studio-2017
 - https://learn.microsoft.com/en-us/cpp/build/reference/nmake-reference?view=msvc-170
